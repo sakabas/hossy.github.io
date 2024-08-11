@@ -23,7 +23,7 @@
 
 
 <aside id="mainimg">
-<img src="c:\Users\kogyo\OneDrive\ドキュメント\バロンドール.jpg" alt="">
+<img src="../バロンドール.jpg" alt="">
 </aside>
 
 
